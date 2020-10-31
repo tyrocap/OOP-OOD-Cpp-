@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Circle.cpp
+C:\dev\Cpp\OOP_Educative\OOP_Educative\src\scode\Circle.cpp(13,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\dev\Cpp\OOP_Educative\OOP_Educative\src\scode\Circle.cpp(17,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Rectangle.cpp
+  Shape.cpp
+  Generating Code...
+  OOP_Educative.vcxproj -> C:\dev\Cpp\OOP_Educative\Debug\OOP_Educative.exe
